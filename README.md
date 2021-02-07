@@ -2,7 +2,6 @@
 clone-nom
 
 <img src="https://github.com/ROMI-AFRZL/clone-nom/blob/main/Ss/20210207_201525.png" width="640" title="Menu" alt="Menu"> 
-<img src="https://github.com/ROMI-AFRZL/clone-nom/blob/main/Ss/20210207_203825.png" width="640" title="Menu" alt="Menu">
 
 ### Install
 ````
@@ -20,3 +19,5 @@ clone-nom
 ```
 •> Login
 ```
+
+<img src="https://github.com/ROMI-AFRZL/clone-nom/blob/main/Ss/20210207_203825.png" width="640" title="Menu" alt="Menu">
