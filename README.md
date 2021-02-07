@@ -1,8 +1,9 @@
 <h1 align="center">
 clone-nom
 
-<img src="https://github.com/ROMI-AFRZL/clone-nom/blob/main/Ss/20210207_201525.png" width="640" title="Menu" alt="Menu"> 
-
+<img src="https://github.com/ROMI-AFRZL/clone-nom/blob/main/Ss/20210207_201525.png" width="640" title="Menu" alt="Menu">
+ 
+### No Login Bro :)
 ### Install
 ````
 •> apt update
