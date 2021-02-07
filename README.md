@@ -16,8 +16,9 @@ clone-nom
 •> chmod +x *
 •> python2 clone.py
 
-•••> PASSWORD 
+•> PASSWORD :
 •> Login
+
 ````
 
 #
