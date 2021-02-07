@@ -17,9 +17,9 @@ clone-nom
 •> python2 clone.py
 ````
 ### Password
-
-- Login
-
+``
+Login
+``
 
 <img src="https://github.com/ROMI-AFRZL/clone-nom/blob/main/Ss/20210207_203825.png" width="640" title="Menu" alt="Menu">
 
