@@ -22,3 +22,7 @@ clone-nom
 ```
 
 <img src="https://github.com/ROMI-AFRZL/clone-nom/blob/main/Ss/20210207_203825.png" width="640" title="Menu" alt="Menu">
+
+#### contact me
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.rizal.58)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)
