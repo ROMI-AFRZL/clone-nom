@@ -1,4 +1,5 @@
-# clone-nom
+<h1 align="center">
+clone-nom
 
 ### Install
 ````
