@@ -1,6 +1,6 @@
 <h1 align="center">
 clone-nom
-
+https://github.com/ROMI-AFRZL/clone-nom/blob/main/Ss/20210207_201525.png
 ### Install
 ````
 •> apt update
