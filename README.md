@@ -14,7 +14,7 @@ clone-nom
 •> git clone https://github.com/ROMI-AFRZL/clone-nom  
 •> cd clone-nom
 •> chmod +x *
-•> python2 main.py
+•> python2 clone.py
 ````
 ### Password
 
