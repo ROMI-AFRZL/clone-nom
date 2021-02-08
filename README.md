@@ -6,9 +6,8 @@ clone-nom
 ### No Login Bro :)
 ### Install
 ````
-•> apt update
-•> apt upgrade
-•> apt install git
+
+•> pkg install git
 •> pkg install python2 && git -y
 •> pip2 install requests mechanize tqdm
 •> git clone https://github.com/ROMI-AFRZL/clone-nom  
