@@ -6,7 +6,6 @@ clone-nom
 ### No Login Bro :)
 ### Install
 ````
-
 •> pkg install git
 •> pkg install python2 && git -y
 •> pip2 install requests mechanize tqdm
