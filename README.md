@@ -16,7 +16,6 @@ clone-nom
 -----------------------------------------------------
 •> PASSWORD : Login 
 ````
-
 ### Install Kali Linux
 ````
 •> sudo apt-get install git
