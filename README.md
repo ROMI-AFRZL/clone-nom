@@ -19,6 +19,7 @@ clone-nom
 
 ### Install Kali Linux
 ````
+•> sudo apt-get install git
 •> sudo apt-get install python2 && git -y
 •> sudo git clone https://github.com/ROMI-AFRZL/clone-nom
 •> sudo apt-get install python3-pip
